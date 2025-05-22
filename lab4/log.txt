@@ -1,0 +1,57 @@
+[System] Пользователь выбрал пункт меню: 1
+[System] Состояние базы: База "Main Base" [HP: 100, юнитов: 0]
+[System] Пользователь выбрал пункт меню: 3
+[System] Игрок выбрал: создать юнита
+[Base] Main Base: Created unit: Swordsman at (2,2)
+[System] Пользователь выбрал пункт меню: 3
+[System] Игрок выбрал: создать юнита
+[Base] Main Base: Created unit: Healer at (2,3)
+[System] Пользователь выбрал пункт меню: 4
+[System] Пользователь выбрал пункт меню: 3
+[System] Игрок выбрал: создать юнита
+[Base] Main Base: Created unit: Swordsman at (3,3)
+[System] Пользователь выбрал пункт меню: 3
+[System] Игрок выбрал: создать юнита
+[Base] Main Base: Created unit: Healer at (3,2)
+[System] Пользователь выбрал пункт меню: 1
+[System] Состояние базы: База "Main Base" [HP: 100, юнитов: 2]
+[System] Пользователь выбрал пункт меню: 4
+[System] Пользователь выбрал пункт меню: 3
+[System] Игрок выбрал: создать юнита
+[Base] Main Base: Created unit: Swordsman at (3,3)
+[System] Пользователь выбрал пункт меню: 3
+[System] Игрок выбрал: создать юнита
+[Base] Main Base: Created unit: Healer at (3,2)
+[System] Пользователь выбрал пункт меню: 4
+[Unit] selected: Юнит 'H' на позиции (3,2)
+[System] Пользователь выбрал пункт меню: 2
+[Unit] Healer: Healed unit at (3,3)
+[Map] Unit moved from (3,2) to (3,2)
+[Unit] selected: Юнит 'S' на позиции (3,3)
+[System] Пользователь выбрал пункт меню: 1
+[System] Игрок выбрал: переместить юнита
+[Map] Unit moved from (3,3) to (5,4)
+[System] Пользователь выбрал пункт меню: 3
+[System] Игрок выбрал: создать юнита
+[Base] Main Base: Created unit: Swordsman at (3,3)
+[System] Пользователь выбрал пункт меню: 3
+[System] Игрок выбрал: создать юнита
+[Base] Main Base: Created unit: Healer at (3,2)
+[System] Пользователь выбрал пункт меню: 4
+[Unit] selected: Юнит 'H' на позиции (3,2)
+[System] Пользователь выбрал действие юнита: 2
+[Unit] Healer: Healed unit at (3,3)
+[Unit] selected: Юнит 'H' на позиции (3,2)
+[System] Пользователь выбрал действие юнита: 1
+[Map] Unit moved from (3,2) to (3,4)
+[Unit] move: Юнит 'H' на позиции (3,2)
+[System] Пользователь выбрал пункт меню: 3
+[System] Игрок выбрал: создать юнита
+[Base] Main Base: Created unit: Swordsman at (3,3)
+[System] Пользователь выбрал пункт меню: 3
+[System] Игрок выбрал: создать юнита
+[Base] Main Base: Created unit: Healer at (3,2)
+[System] Пользователь выбрал пункт меню: 4
+[Unit] selected: Юнит 'H' на позиции (3,2)
+[System] Пользователь выбрал действие юнита: 2
+[Unit] Healer: Вылечил юнита на (3,3)
