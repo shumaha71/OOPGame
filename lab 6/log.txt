@@ -1,0 +1,3 @@
+[Unit] Swordsman: Удар по (6,6)
+[Unit] Swordsman: Удар по (6,6)
+[Unit] Swordsman: Удар по (6,6)
